@@ -65,6 +65,8 @@ function esEntero(numero) {
   } else {
     return false;
   }
+
+  // preguntar porque si coloco else arroja error{´ñpl´´´´´¡¡¡¡}
   // Devuelve "true" si "numero" es un entero (int/integer)
   // Ejemplo: 0.8 -> false
   // Ejemplo: 1 -> true
